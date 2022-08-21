@@ -1,0 +1,136 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: 'Silkscreen', cursive;
+    letter-spacing:-2px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+h3{
+    font-size: 36px;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    width: 120px;
+    border: white solid 2px;
+    text-align: left;
+}
+
+.colors {
+    padding: 20px;
+    margin: 20px;
+    padding: 0;
+}
+
+.hex {
+    text-transform: uppercase;
+    font-family: 'Courier Prime', monospace;
+    font-weight: bold;
+    letter-spacing: -1px;
+    padding: 0 30px;
+}
+
+.Noto {
+    font-family: 'Noto Serif Display', serif;
+}
+
+.Courier {
+    font-family: 'Courier Prime', monospace;
+}
+
+.fonts h2{
+    padding-top: 25px;
+    margin-bottom: 20px;
+}
+
+.fonts div {
+    display: inline-block;
+    vertical-align: top;
+    margin: auto 40px;
+}
+
+.smallfont {
+    font-variant: small-caps;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.text {
+    font-family: 'Noto Serif Display', serif;
+    font-size: 16px;
+}
+
+.h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 75px;
+    font-weight: bold;
+    margin: 30px;
+}
+
+.h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+    margin: 30px;
+}
+
+.p {
+    font-family: 'Noto Serif Display', serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.text div {
+    display: inline-block;
+    width: 300px;
+    margin: auto 40px;
+    vertical-align: middle;
+}
+
+.text div .p {
+    display: inline;
+}
+
+#iceberg {
+    background-color: #86a8b0;
+}
+#pistachio {
+    background-color: #9eb8a2;
+}
+#tea {
+    background-color: #c1c495;
+}
+#peach {
+    background-color: #f7c994;
+}
+#salmon {
+    background-color: #dd9088;
+}
+#mulberry {
+    background-color: #a56586;
+}
+#mauve {
+    background-color: #554978;
+}
