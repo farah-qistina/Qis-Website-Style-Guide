@@ -4,6 +4,25 @@ body {
     text-align: center;
 }
 
+li {
+    display: inline;
+    list-style-type: none;
+}
+
+li a {
+    margin: 20px;
+    color: black;
+    text-transform: uppercase;
+    font-family: 'Courier Prime', monospace;
+    font-weight: bold;
+    letter-spacing: -1px;
+    text-decoration-line: ;
+}
+
+li a:hover {
+    color:gray;
+}
+
 h1, h2 {
     font-family: 'Silkscreen', cursive;
     letter-spacing:-2px;
@@ -31,7 +50,7 @@ td {
     text-align: left;
 }
 
-.colors {
+#colors {
     padding: 20px;
     margin: 20px;
     padding: 0;
@@ -53,12 +72,12 @@ td {
     font-family: 'Courier Prime', monospace;
 }
 
-.fonts h2{
+#fonts h2{
     padding-top: 25px;
     margin-bottom: 20px;
 }
 
-.fonts div {
+#fonts div {
     display: inline-block;
     vertical-align: top;
     margin: auto 40px;
@@ -76,7 +95,7 @@ td {
     font-weight: bold;
 }
 
-.text {
+#text {
     font-family: 'Noto Serif Display', serif;
     font-size: 16px;
 }
@@ -102,14 +121,14 @@ td {
     font-weight: 400;
 }
 
-.text div {
+#text div {
     display: inline-block;
     width: 300px;
     margin: auto 40px;
     vertical-align: middle;
 }
 
-.text div .p {
+#text div .p {
     display: inline;
 }
 
