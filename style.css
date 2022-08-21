@@ -80,7 +80,7 @@ td {
 #fonts div {
     display: inline-block;
     vertical-align: top;
-    margin: 40px;
+    margin: auto 40px;
 }
 
 .smallfont {
